@@ -12,7 +12,7 @@ Locales ['de'] = {
 
 
   -- Verkauf
-  ['dealer_prompt'] = 'Drücke ~INPUT_CONTEXT~ um mit dem ~r~Verkaufs Man~s~ zu reden.',
+  ['dealer_prompt'] = 'Drücke ~INPUT_CONTEXT~ um mit dem ~r~Verkäufer~s~ zu reden.',
   ['dealer_title'] = 'Verkauf',
   ['dealer_item'] = '$%s',
   ['dealer_notenough'] = 'Du hast nicht genug um das zu Verkaufen!',
